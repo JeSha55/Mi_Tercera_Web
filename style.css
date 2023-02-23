@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+    margin-top: 2%;
+    color:darkcyan;
+    text-decoration:overline;
+    font-family: 'Tilt Prism', cursive;
+    
+}
+
+h2{
+    margin-top: 3%;
+    text-align:center;
+    margin-bottom: 3%;
+    font-family: 'Lobster', cursive;
+    text-transform:uppercase;
+}
+
+body{
+    background-color: wheat;
+    
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    border-radius: 8%;
+
+}
+
+p{
+    text-align: center;
+    font-family: 'Labrada', serif;
+}
+
+.enfatizar{
+    color:crimson;
+    display: flex;
+    justify-content: center;
+}
+
+#Negrilla{
+    color:chocolate;
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    display: flex;
+    justify-content: center;
+}
